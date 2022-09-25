@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="north" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#1261A1</item>
+    </style>
+    <style name="south" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#344d1e</item>
+    </style>
+    <style name="east" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#9e1a0a</item>
+    </style>
+    <style name="west" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#7a3813</item>
+    </style>
+</resources>

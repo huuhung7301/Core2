@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Core2</string>
+    <string name="location1">Ha Noi</string>
+    <string name="location2">Ho Chi Minh</string>
+    <string name="location3">Da Nang</string>
+    <string name="location4">Bac Ninh</string>
+</resources>
